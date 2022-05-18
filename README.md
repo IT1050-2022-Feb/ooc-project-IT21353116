@@ -13,4 +13,4 @@ Members :
 | IT21350146 | Hettiarachchi K.S. | IT21350146@my.sliit.lk |
   
   We were unable to upload the C++ files via repl.it . The "Commit and Push" option did not work for us.  
-  Therefore, on behalf of my team members K.S.Weedagamaarachchi (IT21576966) and K.S.Hettiarachchi (IT21350146), I, I.T.M.Perera (IT21353116) uploaded all the codes directly to GitHub.
+  This submission includes the project report and the code files created by me (Perera I.T.M. - IT21353116)
